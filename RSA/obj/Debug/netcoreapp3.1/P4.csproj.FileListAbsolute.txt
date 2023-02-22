@@ -1,0 +1,13 @@
+/home/mohammad/Desktop/P4/bin/Debug/netcoreapp3.1/P4
+/home/mohammad/Desktop/P4/bin/Debug/netcoreapp3.1/P4.deps.json
+/home/mohammad/Desktop/P4/bin/Debug/netcoreapp3.1/P4.runtimeconfig.json
+/home/mohammad/Desktop/P4/bin/Debug/netcoreapp3.1/P4.runtimeconfig.dev.json
+/home/mohammad/Desktop/P4/bin/Debug/netcoreapp3.1/P4.dll
+/home/mohammad/Desktop/P4/bin/Debug/netcoreapp3.1/P4.pdb
+/home/mohammad/Desktop/P4/obj/Debug/netcoreapp3.1/P4.csprojAssemblyReference.cache
+/home/mohammad/Desktop/P4/obj/Debug/netcoreapp3.1/P4.AssemblyInfoInputs.cache
+/home/mohammad/Desktop/P4/obj/Debug/netcoreapp3.1/P4.AssemblyInfo.cs
+/home/mohammad/Desktop/P4/obj/Debug/netcoreapp3.1/P4.csproj.CoreCompileInputs.cache
+/home/mohammad/Desktop/P4/obj/Debug/netcoreapp3.1/P4.dll
+/home/mohammad/Desktop/P4/obj/Debug/netcoreapp3.1/P4.pdb
+/home/mohammad/Desktop/P4/obj/Debug/netcoreapp3.1/P4.genruntimeconfig.cache
